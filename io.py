@@ -9,5 +9,4 @@ a=6
 a=7
 a=8
 a=9
-
-print(a)
+print(b)
